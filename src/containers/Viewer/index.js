@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import './viewer.sass';
+import './viewer.scss';
 
 class Viewer extends Component {
   constructor(props, context) {

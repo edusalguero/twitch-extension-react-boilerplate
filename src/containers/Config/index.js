@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import './config.sass';
+import './config.scss';
 
 class Config extends Component {
   constructor(props, context) {

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import './live-config.sass';
+import './live-config.scss';
 
 class LiveConfig extends Component {
   constructor(props, context) {
